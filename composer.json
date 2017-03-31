@@ -9,6 +9,7 @@
         "acacha/admin-lte-template-laravel": "^4.1",
         "barryvdh/laravel-debugbar": "^2.3",
         "barryvdh/laravel-ide-helper": "^2.3",
+        "laravel-notification-channels/telegram": "^0.0.2",
         "laravel/framework": "5.4.*",
         "laravel/tinker": "~1.0",
         "predis/predis": "^1.1",
