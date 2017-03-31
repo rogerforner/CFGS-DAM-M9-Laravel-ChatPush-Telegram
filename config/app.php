@@ -198,6 +198,11 @@ return [
         Roger\Providers\EventServiceProvider::class,
         Roger\Providers\RouteServiceProvider::class,
 
+        /**
+         * Telegram
+         */
+        NotificationChannels\Telegram\TelegramServiceProvider::class,
+
     ],
 
     /*
